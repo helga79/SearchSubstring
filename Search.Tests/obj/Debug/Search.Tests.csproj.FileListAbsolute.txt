@@ -1,0 +1,7 @@
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\bin\Debug\Search.Tests.dll
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\bin\Debug\Search.Tests.pdb
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\bin\Debug\Search.exe
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\bin\Debug\Search.pdb
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\obj\Debug\Search.Tests.csprojResolveAssemblyReference.cache
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\obj\Debug\Search.Tests.dll
+C:\CODE_TEST_HelgaBanerjee_V2\Search.Tests\obj\Debug\Search.Tests.pdb
